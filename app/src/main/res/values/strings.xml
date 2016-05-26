@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PVL Unofficial</string>
+    <string name="brand">Ponyville Live!</string>
+
+    <!-- Errors -->
+    <string name="stations_failed">Failed to load stations list</string>
+
+    <!-- Drawer Items -->
+    <string name="radio_stations">Radio Stations</string>
+    <string name="shows">Shows</string>
+    <string name="conventions">Conventions</string>
+    <string name="pvl_web">Ponyvile Live! Website</string>
+    <string name="about">About App</string>
+
+    <!-- Radio -->
+    <string name="station_details">%1$s - {gmd-play-arrow} %2$s</string>
+</resources>

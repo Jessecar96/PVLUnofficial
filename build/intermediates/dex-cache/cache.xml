@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\exploded-aar\com.mikepenz\google-material-typeface\2.2.0.1.original\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="53e176889382956e3910232309ab7056730553e8">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-google-material-typeface-2.2.0.1.original_7228119d3e3200aff5df928037056ea1ce703f4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_3ce572438a00116b519d9a535241e8a8ab1ac062\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\exploded-aar\com.mikepenz\materialize\0.8.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="197c431b8fc427f77e02997e299bd6b9bef58ede">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-materialize-0.8.8_007710fcac6df21132cdb2b18fb8f381ca6bf57f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jesse\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_1072d1a678634ec18f980b83adba4231d7b49919\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\5.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="4bea42fab102535c1143a342fc213a0a85177af7">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-materialdrawer-5.2.6_c3deb979f635ce31d363a8a138f2efc32b230b84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\exploded-aar\com.mikepenz\iconics-core\2.5.11\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="98a135c7935e62ac041acc1fcb148973bde828d5">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-iconics-core-2.5.11_04bc841cea98f3866f05cb6ee2b8fe6c360b6a11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_0b5b7c2eab8afef5a0d4f84f4adb566bc4c58e7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jesse\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_7bfcadf3aa5da862daf652f3a1e44e15b24590dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="ea579447f9afb1fbcb28e150e1cd4bfe7f56e75b">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha1_08f6a8639a7fe3514da9cf56ebc2ee65b3b53f4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.0.1_d295a906dbe921d14a8eb4a79b81cd27f0b12dab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="d70959863964211a5442a25eaedacb2a1fde6e03">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0b2e036840e79cae313869dc0e994d9590f0304d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jesse\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.0.1\345b89f45d02d8b09400b472fab7b7e38f4ede1f\butterknife-annotations-8.0.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.0.1_75d118bd31c44e74c0fa7e1a75292324b065633c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jesse\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_d6d1a08aa89ac142c617d42a32db8b66a97d7ba8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_9b6cc5159aa828bdbacb19f3c9e299c18f230cd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="78b14dfc8bb56a07271213dd8539bf58c1cd0c7d">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e5e6e678dc8375dd08080fee938b93051c53294e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_13558636e98593bc83ffb5ffcc490ce7e1ff767b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_a96c80aab6a7ace77d26e830bef51df31084ff6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-sdk\extras\android\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha1\constraint-layout-solver-1.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="78d61c347aa5002119e3c17bffcbebf28fe07b0b">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha1_5d65f8986c9e9f7a06399d9359a48228953280e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\exploded-aar\com.mikepenz\fastadapter\1.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="947138b93ea35201765eb79a97327417efd1b80a">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikepenz-fastadapter-1.5.1_41b1bf75c3455574b2a28f9cf2d8b04a1b69eba0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jesse\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_d31fd52fc9de3af86b3c171b00d733daf24b5b00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_68ad1b15dca4f2ebeb969fa3d351ce76dfb33f9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_1d96cf897deaa2e6065e4159971920d4091af7b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_6d536abe12f530f7efdf23cbce46ea853f40ffdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0 rc4"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Android\AndroidStudioProjects\PVLUnofficial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_ba8b45de707a9a1252a370b03e5643da872ed8ea\classes.dex" />
+    </item>
+
+</items>
